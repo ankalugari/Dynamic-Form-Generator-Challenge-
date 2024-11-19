@@ -1,0 +1,12 @@
+src/
+├── components/
+│   ├── JsonEditor.tsx
+│   ├── FormPreview.tsx
+│   ├── FormField.tsx
+├── App.tsx
+├── index.css
+├── index.tsx
+├── types/
+│   └── SchemaTypes.ts
+├── utils/
+│   ├── validateJSON.ts
